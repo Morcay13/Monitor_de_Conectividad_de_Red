@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Creación_de_un_Monitor_de_Conectividad_de_Red</string>
+    <string name="estado_de_la_red_desconocido">Estado de la red: Desconocido</string>
 </resources>
